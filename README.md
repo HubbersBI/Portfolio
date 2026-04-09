@@ -16,5 +16,6 @@ Collection of SQL queries solving business problems such as customer segmentatio
 
 ### 3. Grocery Market Retail Dashboard (Power BI)
 Consultant-style BI dashboard analyzing retail sales and product performance.  
-🔗 https://github.com/HubbersBI/grocery-retail-dashboard
+🔗 https://github.com/HubbersBI/market-sales-dashoard
+
 
