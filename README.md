@@ -1,4 +1,4 @@
-Welcome to my portfolio. Below are selected projects demonstrating my skills in SQL and Business Intelligence.
+Welcome to my portfolio. Below are projects demonstrating my skills in SQL and Power BI.
 
 ## 📊 Projects
 
