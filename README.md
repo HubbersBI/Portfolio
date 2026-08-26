@@ -20,7 +20,7 @@ Consultant-style BI dashboard analyzing retail sales and product performance.
 
 ---
 
-### 4. Artifinancial
+### 4. Artifinancial (Claude Code AI)
 Project exploring financial data analysis and insights.  
 🔗 https://github.com/HubbersBI/artifinancial
 
