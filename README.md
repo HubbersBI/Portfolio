@@ -24,4 +24,10 @@ Consultant-style BI dashboard analyzing retail sales and product performance.
 Project exploring financial data analysis and insights.  
 🔗 https://github.com/HubbersBI/artifinancial
 
+---
+
+### 5. Wachttijd Radar (Claude Code AI)
+🚧 **Work in progress — not finished yet.**  
+Project tracking and visualizing healthcare waiting times.
+
 
