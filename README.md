@@ -27,7 +27,7 @@ Project exploring financial data analysis and insights.
 ---
 
 ### 5. Wachttijd Radar (Claude Code AI)
-🚧 **Work in progress — not finished yet.**  
-Project tracking and visualizing healthcare waiting times.
+Project tracking and visualizing healthcare waiting times.  
+🔗 https://github.com/HubbersBI/wachttijd-radar
 
 
