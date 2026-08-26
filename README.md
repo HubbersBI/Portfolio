@@ -18,4 +18,10 @@ Collection of SQL queries solving business problems such as customer segmentatio
 Consultant-style BI dashboard analyzing retail sales and product performance.  
 🔗 https://github.com/HubbersBI/market-sales-dashoard
 
+---
+
+### 4. Artifinancial
+Project exploring financial data analysis and insights.  
+🔗 https://github.com/HubbersBI/artifinancial
+
 
