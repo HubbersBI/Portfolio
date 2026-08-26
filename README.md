@@ -8,15 +8,15 @@ Interactive dashboard providing insights into revenue, customers, and product pe
 
 ---
 
-### 2. SQL Data Analysis Project (MySQL)
-Collection of SQL queries solving business problems such as customer segmentation and product performance.  
-🔗 https://github.com/HubbersBI/sql-data-analysis
+### 2. Grocery Market Retail Dashboard (Power BI)
+Consultant-style BI dashboard analyzing retail sales and product performance.  
+🔗 https://github.com/HubbersBI/market-sales-dashoard
 
 ---
 
-### 3. Grocery Market Retail Dashboard (Power BI)
-Consultant-style BI dashboard analyzing retail sales and product performance.  
-🔗 https://github.com/HubbersBI/market-sales-dashoard
+### 3. SQL Data Analysis Project (MySQL)
+Collection of SQL queries solving business problems such as customer segmentation and product performance.  
+🔗 https://github.com/HubbersBI/sql-data-analysis
 
 ---
 
