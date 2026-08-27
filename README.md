@@ -1,5 +1,4 @@
-Welcome to my portfolio. Below are projects demonstrating my skills in SQL, Power BI and Claude Code. The Power BI and SQL projects are made without AI. The AI projects are entirely written with AI.
-
+Welcome to my portfolio. Below are projects demonstrating my skills in Claude Code, SQL and Power BI.
 ## 📊 Projects
 
 ## Claude Code
