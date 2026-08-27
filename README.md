@@ -4,13 +4,13 @@ Welcome to my portfolio. Below are projects demonstrating my skills in Claude Co
 ## Claude Code
 
 ### Artifinancial (Claude Code AI)
-Full-stack trading workstation streaming live market data, with an AI copilot that analyses your positions and executes trades on your behalf. 
+Full-stack trading workstation streaming live market data, with an AI copilot that analyses your positions and executes trades on your behalf.  
 🔗 https://github.com/HubbersBI/artifinancial
 
 ---
 
 ### Wachttijd Radar (Claude Code AI)
-Full-stack web app project tracking and visualizing dutch healthcare waiting times, with an AI assistant. 
+Full-stack web app project tracking and visualizing dutch healthcare waiting times, with an AI assistant.  
 🔗 https://github.com/HubbersBI/wachttijd-radar
 
 ---
