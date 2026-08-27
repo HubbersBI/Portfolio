@@ -12,7 +12,7 @@ Full-stack trading workstation streaming live market data, with an AI copilot th
 
 ### Wachttijd Radar (Claude Code AI)
 Full-stack web app project tracking and visualizing dutch healthcare waiting times, with an AI assistant. 
-🔗 https://github.com/HubbersBI/wachttijd-radar
+🔗 https://github.com/HubbersBI/wachttijd-radar  
 🔗 https://hubbersbi.github.io/wachttijd-radar/
 
 ---
